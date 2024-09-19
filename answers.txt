@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+   Answer: Git allows software engineers to work on projects with multiple other people in a way where it is very easy to look at other people's changes and track the progress on a project.
+ 
