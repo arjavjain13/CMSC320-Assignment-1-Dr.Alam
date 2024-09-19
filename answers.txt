@@ -8,4 +8,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: Merging is more safe as it just combined 2 branches while preserving both histories. Rebasing is when you add a branch on top of another branch.
+   Answer: Merging is more safe as it just combined 2 branches while preserving both histories. Rebasing is when you add a branch on top of another branch.
+
+Q4: What skills do you hope to improve during this course?
+
+   Answer: I hope to improve my data science skills and learn best practices that are used in the industry.
